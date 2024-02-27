@@ -1,0 +1,41 @@
+Enquiry ID,Student ID,First Name,Last Name,Student Contact,Course Enrolled,Faculty Incharge,Batch
+1,1001,Mayur,Patil,1234567890,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+2,1002,Ratikesh,Satle,2345678901,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+4,1003,Rujuta ,Karekar,4567890123,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+5,1004,Sakshi,Chavan,5678901234,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+6,1005,Mansi,Shelar,6789012345,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+7,1006,Pawan,Khaire,7890123456,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+8,1007,Tejas ,Patil,8901234567,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+10,1008,Tanvi ,Satvi,1023456789,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+11,1009,Sachin,Pal,1213141516,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+12,1010,Amol,Mane,1718191011,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+13,1011,Siddhesh,Jadhav,2122232425,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+15,1012,Shivani,Mishra,3132333435,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+16,1013,Shreya,Mathane,3637383930,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+18,1014,Hindavi,Ambavne,4647484940,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+19,1015,Akul,Chavan,5152535455,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+20,1016,Jayesh,Kurhade,5657585950,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+21,1017,Atharva,Katkar,6162636465,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+22,1018,Prathamesh,Mule,6667686960,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+23,1019,Rutik,Kamble,7172737475,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+25,1020,Shreyas,Sonar,8182838485,DSA with AI,Prof. Jayesh Patil,Batch 1 Timing 1-3 pm
+26,2001,Guruprasad,Bhoi,8687888980,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+27,2002,Pratibha,Devghare,9192939495,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+28,2003,Rohit,Jaiswal,9697989990,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+29,2004,Om,Kulkarni,1236547890,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+30,2005,Rahul,Parab,4569871230,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+31,2006,Yash ,Mane,9870123654,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+32,2007,Amruta ,Palve,1478520369,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+33,2008,Bhagyesh,Wavekar,8520369741,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+34,2009,Mayuri,Raskar,3698520147,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+36,2010,Jayesh,Girdhar,9518462730,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+38,2011,Sujit,Patil,8642987103,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+40,2012,Aditya,Mohite,4268753190,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+41,2013,Vipul,Salvi,9908070405,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+42,2014,Shruti,Dabke,8807050604,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+44,2015,Mohit,Shinde,6601203040,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+45,2016,Ashwin ,Nair,5587946321,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+46,2017,Mudra,Bansod,4458972301,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+47,2018,Salim,Jafri,3357496880,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+49,2019,Prabhu,Mohite,2365874900,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm
+50,2020,Sukanya,Chavan,4142434445,Frontend Development,Prof. Sameer Singh,Batch 2 Timing 3-5 pm

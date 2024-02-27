@@ -1,0 +1,51 @@
+Enquiry ID,First Name,Last Name,Current Address,Student Contact,Higher Education,Mode Of Fee Payment
+1,Mayur,Patil,Badlapur,1234567890,BE Mechanical,Cash
+2,Ratikesh,Satle,Ghatkopar,2345678901,BE Automobile,Education Loan
+3,Yash ,Soni,Vikroli,3456789012,BSc IT,Cancelled
+4,Rujuta ,Karekar,Panvel,4567890123,BE Mechanical,Cheque
+5,Sakshi,Chavan,Khandeshwar,5678901234,BE Mechanical,Education Loan
+6,Mansi,Shelar,Borivali,6789012345,BSc IT,Cash
+7,Pawan,Khaire,Worli,7890123456,BE Automobile,Cash
+8,Tejas ,Patil,Panvel,8901234567,BE Mechanical,Cash
+9,Surabhi,Shinde,Juinagar,9012345678,BE IT,Cancelled
+10,Tanvi ,Satvi,Palghar,1023456789,BSc Computer Science,Cash
+11,Sachin,Pal,Thane,1213141516,BSc IT,Cheque
+12,Amol,Mane,Chembur,1718191011,BE Mechanical,Cheque
+13,Siddhesh,Jadhav,Ghatkopar,2122232425,BSc IT,Cash
+14,Rohit,Borate,Nerul,2627282920,BE Civil,Cancelled
+15,Shivani,Mishra,Nerul,3132333435,BSc Chemistry,Education Loan
+16,Shreya,Mathane,Juinagar,3637383930,LLB,Education Loan
+17,Sukanya,Chavan,Kalyan,4142434445,BSc Chemistry,Cancelled
+18,Hindavi,Ambavne,Badlapur,4647484940,BSc Chemistry,Cash
+19,Akul,Chavan,Nerul,5152535455,BSc Computer Science,Cheque
+20,Jayesh,Kurhade,Nerul,5657585950,BAF,Cheque
+21,Atharva,Katkar,Nerul,6162636465,BE ExTC,Education Loan
+22,Prathamesh,Mule,Thane,6667686960,BAF,Education Loan
+23,Rutik,Kamble,Dadar,7172737475,BMS,Cheque
+24,Shreya,Sonar,Thane,7677787970,BCOM,Cancelled
+25,Shreyas,Sonar,Ambernath,8182838485,BAF,Cash
+26,Guruprasad,Bhoi,Powai,8687888980,BE Mechanical,Cash
+27,Pratibha,Devghare,Koparkhairne,9192939495,BSc Chemistry,Education Loan
+28,Rohit,Jaiswal,Airoli,9697989990,BSc IT,Cheque
+29,Om,Kulkarni,Dombivali,1236547890,BE Mechanical,Cash
+30,Rahul,Parab,Panvel,4569871230,BCOM,Cheque
+31,Yash ,Mane,Kalyan,9870123654,BSc Computer Science,Cheque
+32,Amruta ,Palve,Kharghar,1478520369,BSc Biotechnology,Cheque
+33,Bhagyesh,Wavekar,Panvel,8520369741,BE Automobile,Education Loan
+34,Mayuri,Raskar,Nerul,3698520147,BSc IT,Cash
+35,Shridhar,Sahu,Ghatkopar,1592648370,BE Automobile,Cancelled
+36,Jayesh,Girdhar,Kharghar,9518462730,BE IT,Cash
+37,Abhijeet,Rane,Panvel,7538642910,BE Mechanical,Cancelled
+38,Sujit,Patil,Nerul,8642987103,BE IT,Cheque
+39,Akash,Ahirrao,Pen,6248935710,BE Mechanical,Cancelled
+40,Aditya,Mohite,Airoli,4268753190,BE IT,Cheque
+41,Vipul,Salvi,Thane,9908070405,BE Computer Science,Cheque
+42,Shruti,Dabke,Kalyan,8807050604,BE Computer Science,Cash
+43,Sanket,Dhone,Kalva,7702030405,BE Mechanical,Cancelled
+44,Mohit,Shinde,Pen,6601203040,BE Mechanical,Cheque
+45,Ashwin ,Nair,Chembur,5587946321,BE Computer Science,Education Loan
+46,Mudra,Bansod,Kurla,4458972301,BE Mechanical,Cheque
+47,Salim,Jafri,Khandeshwar,3357496880,BE IT,Cash
+48,Sakshi,Anekar,Airoli,2259870416,BE Computer Science,Cancelled
+49,Sahil,Hiwale,Nerul,1156987423,BE IT,Cancelled
+50,Prabhu,Mohite,Juinagar,2365874900,BE IT,Cash
